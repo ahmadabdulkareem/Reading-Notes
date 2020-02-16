@@ -16,11 +16,11 @@
 
    **comments:**    use  <!-- --> and all elements inside it will be disabled.
     
-  **iframes**      <iframe>  to show another site in your site.
+  **iframes**     <iframe>  to show another site in your site.
 
-  **meta** describe your bage to search engine, it sets inside <head> 
+  **meta**     describe your bage to search engine, it sets inside <head> 
 
-  **image** <img src="path"alt="explane image if it didn't show" /> 
+  **image**   to insert an image <img src="path"alt="explane image if it didn't show" /> 
 
 
    *Also there is new features works only with the newest virision of HTML*
