@@ -1,6 +1,6 @@
-#                            class-01.md
+# class-01.md
 
- ## What dose HTML do ?
+ ##   What dose HTML do ?
 
    It is it describe the structure of website pages.
 

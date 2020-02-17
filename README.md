@@ -5,11 +5,10 @@
 
 ##      Tasks:
 
-       |  Task Name    |    Link                                                              |
-       | ------------  | -------------------------------------------------------------------- |
-       |  class01      | [Reading02](https://ahmadabdulkareem.github.io/Reading-Note/class-02)|
-       |               |  
-       |  class02      | 
+                                                                          |
+       | ------------  | ------------------------------------------------------- |
+       |  class01      |   
+       |  class02      | [Reading02](https://ahmadabdulkareem.github.io/ )
        |  class03      |
        |  class04      |
        |  class05      |
