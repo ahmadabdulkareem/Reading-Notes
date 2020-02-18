@@ -5,9 +5,9 @@
 
 ##      Tasks:
 
-                                                                          |
-       | ------------  | ------------------------------------------------------- |
-       |  class01      |   
+       |        task      link                                               |
+       | ------------  | --------------------------------------------------- |
+       |  class01      | [Reading01](https://ahmadabdulkareem.github.io/Reading-Notes/Class-01)
        |  class02      | [Reading02](https://ahmadabdulkareem.github.io/ )
        |  class03      |
        |  class04      |
