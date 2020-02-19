@@ -1,4 +1,4 @@
- #            Class-03
+ # Class-03
 
  ## lists:
 
@@ -12,7 +12,7 @@
 
  ### Definition list: 
   **is created with \<dl> tag, and consists terms,**
-  
+
   *usually it contains \<dt>(the defition term),*
   *and \<dd>(the defition) elements.*
  
