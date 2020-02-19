@@ -26,5 +26,21 @@ a page that can be linked to.*
 
 **Containing** is the outer box that element sets inside it.
 
+**Absolute pposition** the box is taken out of normal
+flow and no longer affects the
+position of other elements on
+the page. 
+ **flow** allows you to take an element in normal
+flow and place *flow right,left*.
+**fixed width layout** Fixed width layout
+designs do not change size as the user increases
+or decreases the size of their
+browser window. 
 
-
+## 
+**Functions** lets you group a series of statements together to perform a
+specific task. to create a function: 
+*function functionName(parameters){
+    statment
+}* 
+and to call it just type it's  name.
