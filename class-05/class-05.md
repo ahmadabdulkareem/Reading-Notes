@@ -9,13 +9,13 @@ to add an image we need to use \<img src="the path">
 
 **Figure & FigureCaption** *figure element* contain the image and *figurecaption element* to to add the caption in it.
 
-      \<figur> 
+      <figur> 
 
-      \<img src="">
+      <img src="">
       
-      \<figcaption>caption\</figcaption>
+      <figcaption>caption</figcaption>
 
-      \</figur>
+      </figur>
 
 ## colors:
  There is three ways to color  in css:
@@ -26,7 +26,22 @@ to add an image we need to use \<img src="the path">
 
  **ColorNames** black;
  
- ## Text:
+### positioning :
+**static** takes the normal position. 
+
+**fixed** stay at same place even if the page scrolled down.
+
+**relative** to be relative to it`s normal position.
+
+**absolute** to be relative to something else.
+
+**sticky** it will be relative untill we scroll  it turns to fixed.
+
+
+
+ ## Text
+### fonts:
+#### font-family:
  **Serif fonts** extra details on
 the ends of the *main strokes* of letters.
 
@@ -34,7 +49,10 @@ the ends of the *main strokes* of letters.
 
 **Monospace** each letter have the same width. 
 
-* For more choices of typefaces use:*  
+*For more choices of typefaces use:* 
+
+* use google fonts.
+
 * font-family.
 
 * font-face.
@@ -58,5 +76,4 @@ the ends of the *main strokes* of letters.
 **Letter Spacing** adds space between letters.
 
 **Word Spacing** adds spaces between words.
-
 
