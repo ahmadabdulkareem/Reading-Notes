@@ -13,3 +13,4 @@ header**).*
 
 ## Objects:
 Contain properities and methods
+ construter: function to creat objects without repeating too many time. 
